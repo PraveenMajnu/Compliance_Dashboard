@@ -9,9 +9,9 @@ export default function Sidebar() {
         <Link to="/">Intro</Link>
         <Link to="/overview">Overview</Link>
         <Link to="/compliance">Compliance</Link>
-        <Link to="/non">Non</Link>
-        <Link to="/recommendations">Recom</Link>
-        <Link to="/handbook">Handbook</Link>
+        <Link to="/non">Non-Compliance Issues</Link>
+        <Link to="/recommendations">Recommendations</Link>
+        <Link to="/handbook">Compliance Handbook</Link>
       </nav>
     </div>
   );
